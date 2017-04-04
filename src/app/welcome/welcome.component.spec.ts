@@ -4,6 +4,7 @@ import { By } from '@angular/platform-browser';
 import { DebugElement } from '@angular/core';
 
 import { WelcomeComponent } from './welcome.component';
+import {} from 'jasmine';
 
 describe('WelcomeComponent', () => {
   let component: WelcomeComponent;
